@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ödsmål i bilder]]></title>
         <description><![CDATA[Ödsmål i bilder]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oedsmal-i-bilder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 20:39:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Dec 2015 20:42:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oedsmal-i-bilder/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c57ca9e-aef0-4654-8f2a-5151958e1aec.png">]]></description>
+            <link>https://thegrid.ai/oedsmal-i-bilder/387532fd-5e7c-4ac0-8ae4-001c6ac606d8/index.html</link>
+            <guid isPermaLink="false">387532fd-5e7c-4ac0-8ae4-001c6ac606d8</guid>
+            <pubDate>Fri, 18 Dec 2015 20:42:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdd281fd-f893-48b7-bb47-6c20cf6f076c.png">]]></description>
-            <link>undefined29c7db6c-3c61-4076-ab33-3ad46c1e7f90/index.html</link>
+            <link>https://thegrid.ai/oedsmal-i-bilder/29c7db6c-3c61-4076-ab33-3ad46c1e7f90/index.html</link>
             <guid isPermaLink="false">29c7db6c-3c61-4076-ab33-3ad46c1e7f90</guid>
             <pubDate>Fri, 18 Dec 2015 20:39:07 GMT</pubDate>
         </item>
